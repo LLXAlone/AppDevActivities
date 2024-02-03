@@ -1,2 +1,2 @@
-Application Development and Emerging Technologies
-This repository contains the sample code for the course
+Prelim Activity: Create Your First MVC Project
+
